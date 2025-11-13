@@ -1,0 +1,6 @@
+<name> walked into the <place> with a <object1> and a <object2>.
+The <plural_noun> were tall, and the air smelled like <smell>.
+Suddenly, a small <animal> ran out from behind a <noun>.
+It made a <sound> and dropped a <adjective> <object3> at <name>'s feet.
+Smiling, <name> picked it up and said, "Looks like today is my <adjective2> day."
+
